@@ -6,3 +6,6 @@ printf("Hello World");
 
 # Kotlin Language
 println("Hello, world!")
+
+# Python Language
+print("Hello World")
