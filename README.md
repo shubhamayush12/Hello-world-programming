@@ -7,5 +7,8 @@ printf("Hello World");
 # Kotlin Language
 println("Hello, world!")
 
+# Go Language
+fmt.Print("Hello world!")
+
 # Python Language
 print("Hello World")
